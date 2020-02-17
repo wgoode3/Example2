@@ -1,3 +1,5 @@
+// this is a comment
+
 function test(arr) {
     var s = 0;
     for(var i=0; i<arr.length; i++) {
